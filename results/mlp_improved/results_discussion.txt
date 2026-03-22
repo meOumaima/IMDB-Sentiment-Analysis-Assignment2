@@ -1,0 +1,9 @@
+==================================================
+IMPROVED MLP - RESULTS DISCUSSION
+==================================================
+
+Model Performance:
+- Test Accuracy: 77.78%
+- Training Accuracy (final): 77.75%
+- Validation Accuracy (final): 77.68%
+

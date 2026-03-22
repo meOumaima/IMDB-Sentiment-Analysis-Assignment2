@@ -1,0 +1,9 @@
+==================================================
+GRU - RESULTS DISCUSSION
+==================================================
+
+Model Performance:
+- Test Accuracy: 88.34%
+- Training Accuracy (final): 99.84%
+- Validation Accuracy (final): 88.08%
+

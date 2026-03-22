@@ -1,0 +1,12 @@
+LSTM Improved Model - Evaluation Metrics
+
+Test Accuracy: 88.60%
+
+              precision    recall  f1-score   support
+
+         0.0       0.88      0.89      0.89      5000
+         1.0       0.89      0.88      0.89      5000
+
+    accuracy                           0.89     10000
+   macro avg       0.89      0.89      0.89     10000
+weighted avg       0.89      0.89      0.89     10000

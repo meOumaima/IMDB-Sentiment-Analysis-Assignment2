@@ -1,0 +1,8 @@
+==================================================
+LSTM Model - RESULTS DISCUSSION
+==================================================
+
+Model Performance:
+- Test Accuracy: 87.86%
+- Training Accuracy (final): 100.00%
+- Validation Accuracy (final): 87.68%
